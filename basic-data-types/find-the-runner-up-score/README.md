@@ -28,5 +28,5 @@ Print the runner-up score.
 
 ### My Solution
 
-- [Python 2](python2.py)
+
 - [Python 3](python3.py)
