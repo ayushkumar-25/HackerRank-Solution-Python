@@ -4,7 +4,7 @@
 
 * [Lists](lists)
 * [Tuples](tuples)
-* [Finding the percentage](Finding-the-percentage)
+* [Finding the percentage](finding-the-percentage)
 * [Nested Lists](nested-list)
 * [Find the Runner-Up Score!](find-the-runner-up-score)
-* [List Comprehensions](List-comprehensions)
+* [List Comprehensions](fist-comprehensions)
