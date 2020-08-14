@@ -1,4 +1,4 @@
-# hackerrank-python
+# Hackerrank-Solution-Python
 
 ## My practice with Python solving problems in HackerRank
 
