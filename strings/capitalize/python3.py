@@ -24,5 +24,5 @@ if __name__ == '__main__':
 
 # Method-2 (Without function & list-comprehension, for better understanding)
 s = input()
-for i in s.split(' '):
+for i in s.split(' '):  # Here ' ' are necessary in the split function (think why?)
     print(i.capitalize(), end=' ')
