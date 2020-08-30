@@ -20,3 +20,9 @@ if __name__ == '__main__':
     fptr.write(result + '\n')
 
     fptr.close()
+
+
+# Method-2 (Without function & list-comprehension, for better understanding)
+s = input()
+for i in s.split(' '):
+    print(i.capitalize(), end=' ')
